@@ -212,7 +212,7 @@ a {
 
 a:hover {
     border-bottom-color: transparent;
-    color: #819ac1 !important;
+    color: #4fad82 !important;
 }
 
 strong,
@@ -1893,7 +1893,7 @@ header h6 + p {
 }
 
 header.major h2 {
-    color: #819ac1;
+    color: #4fad82;
     font-size: 3.5em;
 }
 
@@ -1956,7 +1956,7 @@ input[type="password"]:focus,
 input[type="email"]:focus,
 select:focus,
 textarea:focus {
-    border-color: #819ac1;
+    border-color: #4fad82;
 }
 
 select {
@@ -2056,7 +2056,7 @@ input[type="radio"]:checked + label:before {
 
 input[type="checkbox"]:focus + label:before,
 input[type="radio"]:focus + label:before {
-    border-color: #819ac1;
+    border-color: #4fad82;
 }
 
 input[type="checkbox"] + label:before {
@@ -2485,8 +2485,8 @@ ul.feature-icons li:before {
 }
 
 ul.feature-icons li:before {
-    background: #819ac1;
-    background: #819ac1;
+    background: #4fad82;
+    background: #4fad82;
     border-radius: 100%;
     color: #ffffff;
     display: block;
@@ -2702,7 +2702,7 @@ input[type="submit"].primary,
 input[type="reset"].primary,
 input[type="button"].primary,
 .button.primary {
-    background-color: #819ac1;
+    background-color: #4fad82;
     color: #ffffff !important;
 }
 
@@ -2785,7 +2785,7 @@ input[type="button"]:disabled,
     -webkit-justify-content: space-between;
     -ms-justify-content: space-between;
     justify-content: space-between;
-    background: #000069;
+    background: #003b12;
     color: #d2f2e9;
     height: 100%;
     overflow-y: auto;
@@ -2903,7 +2903,7 @@ input[type="button"]:disabled,
 
 #header > nav ul li a.active {
     background: #fff;
-    color: #000069 !important;
+    color: #006920 !important;
 }
 
 #header > nav ul li:first-child {
@@ -3167,7 +3167,7 @@ input[type="button"]:disabled,
     }
 
     #titleBar .toggle:before {
-        background: #000069;
+        background: #648244;
         color: #ffffff;
         content: '\f0c9';
         display: block;
